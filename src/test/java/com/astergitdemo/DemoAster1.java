@@ -6,7 +6,7 @@ public class DemoAster1 {
 
 		String hungrey = "Yes";
 		if (hungrey == "Yes") {
-			System.out.println("Eat hi something");
+			System.out.println("Eat hi something nutritious");
 		} 
 
 	}

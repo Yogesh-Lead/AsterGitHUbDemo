@@ -6,10 +6,8 @@ public class DemoAster1 {
 
 		String hungrey = "Yes";
 		if (hungrey == "Yes") {
-			System.out.println("Eat something");
-		} else {
-			System.out.println("Do some work");
-		}
+			System.out.println("Eat hi something");
+		} 
 
 	}
 
